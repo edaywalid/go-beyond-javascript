@@ -23,7 +23,7 @@ Welcome to the **Golang Discovery Workshop**, where we explore the power of Go i
 ├── go.mod                # Go module file
 ├── go.sum                # Module dependency checksums
 └── README.md             # You are here 🚀
-
+```
 
 ---
 
