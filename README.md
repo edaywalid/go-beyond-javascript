@@ -48,7 +48,7 @@ Welcome to the **Golang Discovery Workshop**, where we explore the power of Go i
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-org/golang-discovery-workshop.git
+git clone https://github.com/edaywalid/go-beyond-javascrip.git
 cd golang-discovery-workshop
 
 # Run the blog API server
