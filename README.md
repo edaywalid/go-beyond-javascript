@@ -103,7 +103,3 @@ Feel free to reach out or open an issue if you have questions, feedback, or idea
 ---
 
 **⭐️ Don’t forget to star this repo if you found it useful!**
-
-```
-
-
