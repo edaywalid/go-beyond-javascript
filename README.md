@@ -48,8 +48,8 @@ Welcome to the **Golang Discovery Workshop**, where we explore the power of Go i
 
 ```bash
 # Clone the repo
-git clone https://github.com/edaywalid/go-beyond-javascrip.git
-cd golang-discovery-workshop
+git clone https://github.com/edaywalid/go-beyond-javascript.git
+cd go-beyond-javascript
 
 # Run the blog API server
 cd cmd/blog-api
