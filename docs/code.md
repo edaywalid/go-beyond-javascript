@@ -341,4 +341,5 @@ func deletePost(w http.ResponseWriter, r *http.Request) {
 
   - [Chi Router Docs](https://pkg.go.dev/github.com/go-chi/chi/v5)
   - [Go by Example](https://gobyexample.com)
+  - [Go Docs: net/http](https://pkg.go.dev/net/http)
   - [Go Docs: encoding/json](https://pkg.go.dev/encoding/json)
